@@ -10,8 +10,6 @@ public class HelloController {
     public String hello() {
         return "Backend is alive 👋";
     }
-    @GetMapping("/health")
-    public String health() { return "ok"; }
 }
 
 
