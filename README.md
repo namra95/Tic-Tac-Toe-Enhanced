@@ -51,5 +51,3 @@ The project supports Player-vs-Player and Player-vs-AI gameplay and is fully dep
 
 ---
 
-## 📦 Project Structure
-
